@@ -11,7 +11,3 @@ About this site
 ```{r}
 runif(10)
 ```
-
-```{r}
-
-```
