@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: e7322f97-5804-4f4a-ab5b-77938d35cc3b
+      url: https://illustrious-jalebi-4e07d9.netlify.app
