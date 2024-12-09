@@ -2,7 +2,7 @@
   "hash": "8bcdbe6cac70a6ad674ed011b859a84b",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"About\"\n---\n\n\n\n\nAbout this site\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.58718952 0.27070980 0.91745389 0.09131872 0.59722037 0.61140061\n [7] 0.08095858 0.66453864 0.40853175 0.88498089\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\n\n\nAbout this site\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.2477470 0.8053486 0.7861803 0.8544612 0.2648275 0.7517632 0.3142520\n [8] 0.1592045 0.8052917 0.7876276\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
