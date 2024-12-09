@@ -1,0 +1,6 @@
+---
+title: "Analyzing Mortality Factors in Heart Disease Patients"
+date: "2024-12-01"
+---
+
+This study evaluates factors influencing mortality in Heart Disease Patients [Download PDF](Group4Poster.pdf)

@@ -1,0 +1,8 @@
+---
+title: "Statistical Model for Predicting NBA Game Outcomes"
+date: "2024-12-03"
+---
+
+Exploring a statistical Model for Predicting NBA Game Outcomes (win or loss) for NBA games after April 1st 2024
+
+[Download PDF](final-project.pdf)

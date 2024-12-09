@@ -6,14 +6,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Information
-      - about.qmd
+        text: About me
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

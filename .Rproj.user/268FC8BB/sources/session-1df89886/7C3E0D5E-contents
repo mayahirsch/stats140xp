@@ -1,0 +1,10 @@
+---
+title: "Maya Hirsch Projects"
+format: html
+listing:
+  contents: projects/
+  sort: "date"
+  type: table
+---
+
+Below are my list of featured projects.
